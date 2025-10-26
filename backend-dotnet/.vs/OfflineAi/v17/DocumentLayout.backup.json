@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ljudm\\Documents\\Work\\offline-ai-starter\\backend-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D2C5C9-5F89-46A8-9C69-6C1B5C32BCF6}|OfflineAi.Api\\OfflineAi.Api.csproj|c:\\users\\ljudm\\documents\\work\\offline-ai-starter\\backend-dotnet\\offlineai.api\\offlineai.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B5D2C5C9-5F89-46A8-9C69-6C1B5C32BCF6}|OfflineAi.Api\\OfflineAi.Api.csproj|solutionrelative:offlineai.api\\offlineai.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OfflineAi.Api",
+              "DocumentMoniker": "C:\\Users\\ljudm\\Documents\\Work\\offline-ai-starter\\backend-dotnet\\OfflineAi.Api\\OfflineAi.Api.csproj",
+              "RelativeDocumentMoniker": "OfflineAi.Api\\OfflineAi.Api.csproj",
+              "ToolTip": "C:\\Users\\ljudm\\Documents\\Work\\offline-ai-starter\\backend-dotnet\\OfflineAi.Api\\OfflineAi.Api.csproj",
+              "RelativeToolTip": "OfflineAi.Api\\OfflineAi.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T14:58:12.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
