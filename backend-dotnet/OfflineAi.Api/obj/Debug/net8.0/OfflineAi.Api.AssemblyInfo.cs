@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OfflineAi.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e435ba3f846577e4fd92941eef41335aa53f016")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a86b63d92cb8f0d3d89ae29aa2f72a129863fbd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("OfflineAi.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OfflineAi.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

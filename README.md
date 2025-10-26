@@ -1,7 +1,7 @@
 # Offline Embedded AI — Two Approaches
 
 This starter contains:
-1) `backend-dotnet` — a .NET 8 local service that does embeddings (ONNX) and vector search (SQLite). Chat endpoint is stubbed for you to wire up a local LLM (e.g., with LLamaSharp).
+1) `backend-dotnet` — a .NET local service that does embeddings (ONNX) and vector search (SQLite). Chat endpoint is stubbed for you to wire up a local LLM (e.g., with LLamaSharp).
 2) `frontend-pwa` — a browser-only PWA using Transformers.js for embeddings and WebLLM for chat, fully offline after first run.
 
 ## Quick Start
